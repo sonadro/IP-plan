@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "ip-plan",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonadro/IP-plan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonadro/IP-plan/issues"
+  },
+  "homepage": "https://github.com/sonadro/IP-plan#readme",
+  "description": ""
+}
